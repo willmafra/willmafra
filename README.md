@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**willmafra/willmafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+### I am very interested in:
+- Cloud Computing 
+- SRE | DevOps
+- Linux (Unix Like)
+- System Architecture
+- Continuous Integration / Continous Delivery
+Also I have some AWS Certifications
+Certs:
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified SysOps - Associate
+- AWS Security Fundamentals
+- AWS Job Roles in Cloud
+- AWS Well-Architected Training
+- AWS Cloud Practitioner Essentials
+- AWS Big Data Technology Fundamentals
+You can find more informations about my skills in my LinkedIn profile:
+https://www.linkedin.com/in/william-mafra-22395b2a/
+Feel free to contact me there, I love to meet new people
