@@ -16,5 +16,5 @@ Certs:
 - AWS Cloud Practitioner Essentials
 - AWS Big Data Technology Fundamentals
 You can find more informations about my skills in my LinkedIn profile:
-https://www.linkedin.com/in/william-mafra-22395b2a/
+https://www.linkedin.com/in/william-mafra-br/
 Feel free to contact me there, I love to meet new people
